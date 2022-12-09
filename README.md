@@ -1,7 +1,7 @@
 # Seconded Git
 
-## Table of Contents
+The quick brown fox jumped over the seconded lazy dog.
 
-- example_file.txt
+Making changes to the remote, let's bring them down to the local.
 
-The quick brown fox jumped over the seconded lazy dog
+Once more change for luck!
